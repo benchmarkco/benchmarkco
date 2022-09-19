@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hola a tod@s!! 👋
+
+- 🔭 Trabajamos en generar accesibilidad al conocimiento en temas relacionados a finanzas, actuaría y ciencia de datos.
+
+- 🌱 Estamos abiertos a entender, aprender, y disponibilizar por medio de herramientas cloud conocimiento sobre finanzas corporativas, mercados bursátiles, actuaría de seguros de vida y no vida, reaseguro, modelos de aprendizaje supervisado y no supervisado, AI y cualquier tipo de aplicación que se desarrolle sobre nuestros 3 pilares. (Finanzas, Actuaría y Ciencia de Datos)
+
+- 👯 Buscamos ayuda con nuestro objetivo de disponibilizar este tipo de información al alcance de tod@s.
+
+- ⚡ Pueden encontrar todos los relacionado al proyecto en el siguiente [enlace](https://linktr.ee/benchmark_co)
+
 
 <!--
 **benchmarkco/benchmarkco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
