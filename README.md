@@ -6,7 +6,7 @@
 
 - 👯 Buscamos ayuda con nuestro objetivo de disponibilizar este tipo de información al alcance de tod@s.
 
-- ⚡ Pueden encontrar todos los relacionado al proyecto en el siguiente [enlace](https://linktr.ee/benchmark_co)
+- ⚡ Pueden encontrar todos los relacionado al proyecto en el siguiente [enlace](https://linktr.ee/benchmark_co).
 
 
 <!--
